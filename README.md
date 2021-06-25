@@ -1,4 +1,4 @@
-![hvplot](https://user-images.githubusercontent.com/78656720/123484707-cf25a300-d5d6-11eb-8f80-2ad3002bad75.png)
+
 # Cryptocurrencies
 # Overview
 The objective of this project is to identify the best cryptocurrrency in the market to invet on.The project is going to create a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create a classification system for this new investment.
@@ -26,5 +26,8 @@ Then the project create the Principal Component Analysis (PCA) algorithm, and re
 
 ![3D_scatter](https://user-images.githubusercontent.com/78656720/123484581-97b6f680-d5d6-11eb-92f6-98f9c41224f6.png)
 
+Finally the project is creating scatter plots with Plotly Express and hvplot, we visualize the distinct groups that correspond to the three principal components you we created in in the above table, then we create a table with all the currently tradable cryptocurrencies using the hvplot.
+
+![hvplot](https://user-images.githubusercontent.com/78656720/123484707-cf25a300-d5d6-11eb-8f80-2ad3002bad75.png)
 
 # Summary
